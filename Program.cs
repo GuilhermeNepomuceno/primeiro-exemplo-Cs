@@ -49,7 +49,7 @@ namespace PrimeiroExemploPraticoCSharp
                         Console.ReadLine();
                         break;
                     case '3':
-
+                        showAverageGrade(students);
                         break;
                     case '4':
                         Console.Clear();
@@ -59,6 +59,29 @@ namespace PrimeiroExemploPraticoCSharp
                         throw new ArgumentOutOfRangeException();
                 }
             } while (userInput != '4');
+        }
+
+        private static void showAverageGrade(Student[] students)
+        {
+            decimal overallGrade = 0m;
+            int studentsQuantity = 0;
+            foreach (var student in students)
+            {
+                if (!string.IsNullOrEmpty(student.name))
+                {
+                    overallGrade += student.grade;
+                    studentsQuantity++;
+                }
+            }
+
+            Console.Clear();
+            calculateAverageGrade(overallGrade, studentsQuantity,out decimal averageGrade);
+            Console.WriteLine($"Nota média: {averageGrade}");
+            Console.ReadLine();
+        }
+
+        private static void calculateAverageGrade(decimal overallGrade, int quantity, out decimal averageGrade){
+            averageGrade = overallGrade / quantity;
         }
 
         private static char showMenu()
