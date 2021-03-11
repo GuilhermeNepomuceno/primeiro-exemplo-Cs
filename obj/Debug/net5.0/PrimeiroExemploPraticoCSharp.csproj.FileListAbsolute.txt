@@ -1,0 +1,16 @@
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\bin\Debug\net5.0\PrimeiroExemploPraticoCSharp.exe
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\bin\Debug\net5.0\PrimeiroExemploPraticoCSharp.deps.json
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\bin\Debug\net5.0\PrimeiroExemploPraticoCSharp.runtimeconfig.json
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\bin\Debug\net5.0\PrimeiroExemploPraticoCSharp.runtimeconfig.dev.json
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\bin\Debug\net5.0\PrimeiroExemploPraticoCSharp.dll
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\bin\Debug\net5.0\ref\PrimeiroExemploPraticoCSharp.dll
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\bin\Debug\net5.0\PrimeiroExemploPraticoCSharp.pdb
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\obj\Debug\net5.0\PrimeiroExemploPraticoCSharp.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\obj\Debug\net5.0\PrimeiroExemploPraticoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\obj\Debug\net5.0\PrimeiroExemploPraticoCSharp.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\obj\Debug\net5.0\PrimeiroExemploPraticoCSharp.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\obj\Debug\net5.0\PrimeiroExemploPraticoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\obj\Debug\net5.0\PrimeiroExemploPraticoCSharp.dll
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\obj\Debug\net5.0\ref\PrimeiroExemploPraticoCSharp.dll
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\obj\Debug\net5.0\PrimeiroExemploPraticoCSharp.pdb
+C:\Users\Guilherme\Desktop\Workspace  C#\PrimeiroExemploPraticoCSharp\obj\Debug\net5.0\PrimeiroExemploPraticoCSharp.genruntimeconfig.cache
