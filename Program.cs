@@ -32,10 +32,21 @@ namespace PrimeiroExemploPraticoCSharp
                         }
                         Console.Beep();
                         students[studentsIndex] = newStudent;
-                        studentsIndex++;       
+                        studentsIndex++;
+                               
                         break;
                     case '2':
-
+                        Console.Clear();
+                        Console.WriteLine("\t\t\t\t\t######- Lista de Alunos -######\n");
+                        foreach (var student in students)
+                        {
+                            if (!string.IsNullOrEmpty(student.name))
+                            {
+                                Console.WriteLine($"#- Aluno {student.name}  #- Nota: {student.grade}");
+                            }
+                        }
+                        Console.WriteLine("\nPressione qualquer tecla para continuar");
+                        Console.ReadLine();
                         break;
                     case '3':
 
